@@ -1,0 +1,12 @@
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\thema\Desktop\.NET-Mentoring-Basics\Module 1\Task 1\dotNET-Mentoring-Basics\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

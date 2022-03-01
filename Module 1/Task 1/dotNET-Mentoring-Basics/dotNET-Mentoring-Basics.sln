@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp", "WinFormsApp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp", "WpfApp\WpfApp.csproj", "{44BB7A87-3B3B-4F85-A5CB-44B04D04EE0E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{95545321-D66F-4DF6-B717-56EB5E4F50AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{44BB7A87-3B3B-4F85-A5CB-44B04D04EE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BB7A87-3B3B-4F85-A5CB-44B04D04EE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BB7A87-3B3B-4F85-A5CB-44B04D04EE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95545321-D66F-4DF6-B717-56EB5E4F50AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95545321-D66F-4DF6-B717-56EB5E4F50AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95545321-D66F-4DF6-B717-56EB5E4F50AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95545321-D66F-4DF6-B717-56EB5E4F50AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +46,7 @@ Global
 		{9EF18EE6-0D26-4AD9-B82F-EEC37F65368F} = {2E5B3FB8-CADB-43F7-BCCD-95A52CB7D82C}
 		{17AB13EB-3E58-4DF0-9A6B-BAC8794D88A6} = {9EF18EE6-0D26-4AD9-B82F-EEC37F65368F}
 		{44BB7A87-3B3B-4F85-A5CB-44B04D04EE0E} = {9EF18EE6-0D26-4AD9-B82F-EEC37F65368F}
+		{95545321-D66F-4DF6-B717-56EB5E4F50AE} = {9EF18EE6-0D26-4AD9-B82F-EEC37F65368F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {30458178-76E4-4E64-888A-5602A0DE0221}
