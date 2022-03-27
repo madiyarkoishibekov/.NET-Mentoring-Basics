@@ -1,0 +1,10 @@
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.AssemblyReference.cache
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 5 - Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.pdb

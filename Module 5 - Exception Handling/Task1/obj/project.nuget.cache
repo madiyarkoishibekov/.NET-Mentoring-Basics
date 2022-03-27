@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3da1N+ox0sa5sW1ZPsK3Fh32kiKaomSpd7sLCoNKlwRzgJdkcEpXuXVSW4ul05aKkPnaUMSrgxsRSYDjg5DDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Madiyar_Koishibekov\\Desktop\\.NET-Mentoring-Basics\\Module 5 - Exception Handling\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Madiyar_Koishibekov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
