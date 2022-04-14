@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Module 5 - Exception Handling"
+    "\\Module 5 - Exception Handling\\Task2",
+    "\\Module 5 - Exception Handling\\Task2.Tests",
+    "\\Module 6 - Reflection"
   ],
-  "SelectedNode": "\\Module 5 - Exception Handling\\ExceptionHandling.sln",
+  "SelectedNode": "\\Module 6 - Reflection",
   "PreviewInSolutionExplorer": false
 }
