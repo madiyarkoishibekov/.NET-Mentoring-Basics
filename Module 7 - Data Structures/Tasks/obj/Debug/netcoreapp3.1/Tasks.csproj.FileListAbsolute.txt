@@ -1,0 +1,10 @@
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.AssemblyReference.cache
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\Madiyar_Koishibekov\Desktop\.NET-Mentoring-Basics\Module 7 - Data Structures\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb
