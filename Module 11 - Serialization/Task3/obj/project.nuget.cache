@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmEgGcA4cj7IskqoVIXQe/gFhLJ6DP74UZGQmYjxTviKWxvDTKmBLoQbKutOsf3V+A2553ZoHMlK1078/izXvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Madiyar_Koishibekov\\Desktop\\.NET-Mentoring-Basics\\Module 11 - Serialization\\Task3\\JsonSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Madiyar_Koishibekov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

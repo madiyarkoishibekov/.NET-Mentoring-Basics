@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Module 11 - Serialization",
+    "\\Module 11 - Serialization\\Serialization",
+    "\\Module 5 - Exception Handling",
+    "\\Module 5 - Exception Handling\\Task2"
   ],
-  "SelectedNode": "\\Logging.sln",
+  "SelectedNode": "\\Module 11 - Serialization\\Serialization.sln",
   "PreviewInSolutionExplorer": false
 }
