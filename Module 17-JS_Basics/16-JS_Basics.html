@@ -1,0 +1,94 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Homework on JS Basics</title>
+
+</head>
+<body>
+    <h1>Task 1</h1>
+    <div>
+        <span>Given string:</span>
+        <span id="task1-input">I can eat bananas all day.</span>
+    </div>
+    <input type="button" name="btnTask1" value="Take bananas and make it uppercase." onclick="Task1()" />
+    <div>
+        <span>Result:</span>
+        <span id="task1-result"></span>
+    </div>
+
+    <h1>Task 2</h1>
+    <div>
+        <span>Given array:</span>
+        <span id="task2-input"></span>
+    </div>
+    <div><input type="button" name="btnTask1-1" value="Initialize array." onclick="Task2_1()" /></div>
+    <div><input type="button" name="btnTask1-2" value="Get &quot;BMW&quot; value." onclick="Task2_2()" /></div>
+    <div><input type="button" name="btnTask1-3" value="Change the first item of cars." onclick="Task2_3()" /></div>
+    <div><input type="button" name="btnTask1-4" value="Remove last item in the array." onclick="Task2_4()" /></div>
+    <div><input type="button" name="btnTask1-5" value="Add &quot;Audi&quot; to the array." onclick="Task2_5()" /></div>
+    <div><input type="button" name="btnTask1-6" value="Splice &quot;Volvo&quot; and &quot;BMW&quot;." onclick="Task2_6()" /></div>
+    <div>
+        <span>Result:</span>
+        <span id="task2-result"></span>
+    </div>
+
+    <style>
+        div input {
+            width: 25rem;
+            text-align: left;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var task2Input = document.getElementById("task2-input");
+        var task2Result = document.getElementById("task2-result");
+        var cars = ["Saab", "Volvo", "BMW"];
+        task2Input.innerHTML = cars;
+
+        function Task1() {
+            var inputString = document.getElementById("task1-input").innerHTML;
+            var result = document.getElementById("task1-result");
+            result.innerHTML = inputString.slice(10, 18).toUpperCase();
+        }
+
+        // Set initial value of array.
+        function Task2_1() {
+            var cars = ["Saab", "Volvo", "BMW"];
+            task2Input.innerHTML = cars;
+        }
+
+        function Task2_2() {
+            task2Result.innerHTML = cars[2];
+        }
+        
+        function Task2_3() {
+            cars[0] = "Mercedes-Benz";
+            task2Input.innerHTML = cars;
+            task2Result.innerHTML = cars;
+        }
+
+        function Task2_4() {
+            cars = cars.slice(0, -1);
+            task2Result.innerHTML = cars;
+            task2Input.innerHTML = cars;
+        }
+
+        function Task2_5() {
+            cars.push("Audi");
+            task2Result.innerHTML = cars;
+            task2Input.innerHTML = cars;
+        }
+
+        function Task2_6() {
+            cars = cars.splice(1,2);
+            task2Result.innerHTML = cars;
+            task2Input.innerHTML = cars;
+        }
+
+
+
+    </script>
+</body>
+
+
+</html>
+
