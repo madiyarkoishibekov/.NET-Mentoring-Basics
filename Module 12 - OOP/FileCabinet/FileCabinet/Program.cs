@@ -1,6 +1,5 @@
 ﻿using FileCabinet;
 using FileCabinet.Infrastructure;
-using FileCabinet.Interfaces;
 using Microsoft.Extensions.Caching.Memory;
 
 Console.WriteLine("This is a file cabinet app.");
